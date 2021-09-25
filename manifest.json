@@ -1,8 +1,8 @@
 {
-  "name": "#TorneoNocturno",
+  "name": "Torneo Nocturno",
   "short_name": "#TorneoNocturno",
   "description": "Torneo Nocturno es un campeonato de Formula 1 online",
-  "background_color": "#2B2B2B",
+  "background_color": "#eed73c",
   "theme_color": "#F0DB4F",
   "orientation": "portrait",
   "display": "standalone",
